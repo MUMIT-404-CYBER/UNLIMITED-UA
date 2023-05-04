@@ -8,9 +8,9 @@ pkg install git
 pkg install python
 pip install requests
 
-rm -rf AUTO-UA
-git clone https://github.com/MUMIT-404-CYBER/AUTO-UA
-cd AUTO-UA
+rm -rf UNLIMITED-UA
+git clone https://github.com/MUMIT-404-CYBER/UNLIMITED-UA
+cd UNLIMITED-UA
 python ua.py
 ```
 
